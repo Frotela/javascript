@@ -6,7 +6,7 @@ console.log(x); //undefined.
 
 let y = 8;
 y = null;
-console.log(y); //null
+console.log(y); //null 
 
 //The value is logged null because we explicity made the value to be empty.
 
